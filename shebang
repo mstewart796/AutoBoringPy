@@ -1,0 +1,8 @@
+Windows:
+#! python3
+
+OS X:
+#! /usr/bin/env python3
+
+Linux:
+#! /usr/bin/python3
