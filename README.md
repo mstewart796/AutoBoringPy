@@ -1,1 +1,1 @@
-# this is a collection of files creating while doing the Automate the Boring Stuff with Python Programming course
+# This is a collection of files creating while doing the Automate the Boring Stuff with Python Programming course
