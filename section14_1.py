@@ -1,5 +1,4 @@
 import openpyxl
-import os
 
 workbook = openpyxl.load_workbook('example.xlsx')
 
